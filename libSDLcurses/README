@@ -1,0 +1,8 @@
+To build the library  you just use the usual:
+
+./configure
+make
+make install 
+
+It is not yet a full implementation of the curses API - several modes,
+particularly scrolling ones are missing.
